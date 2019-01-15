@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "robo_friends",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,15 @@
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
+=======
+  "name": "robofriends",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1",
+>>>>>>> 092a6356b4b83e25d47636f3da0ca76e0badd5cb
     "tachyons": "^4.11.1"
   },
   "scripts": {

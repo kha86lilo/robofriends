@@ -5,15 +5,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+<<<<<<< HEAD
 test brn
 git logRuns the app in the development mode.<br>test
+=======
+
+Runs the app in the development mode.<br>
+>>>>>>> 092a6356b4b83e25d47636f3da0ca76e0badd5cb
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 ### `npm test`
+<<<<<<< HEAD
 aaaa
+=======
+
+>>>>>>> 092a6356b4b83e25d47636f3da0ca76e0badd5cb
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
@@ -42,6 +51,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+<<<<<<< HEAD
 
 ### Code Splitting
 
@@ -66,3 +76,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+>>>>>>> 092a6356b4b83e25d47636f3da0ca76e0badd5cb
